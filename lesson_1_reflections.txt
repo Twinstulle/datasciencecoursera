@@ -1,0 +1,45 @@
+Hilfreich, weil ich den Focus auf die bestehenden Differenzen eingrenzen konnte. Hilfreich weil ich mal wieder gelernt habe das ich ohne eine guten Editor nicht auskomme.vi + commandozeile. Sublime text lassen wir vorerst.
+Hilfreich auch, weil ich nicht wusste das auch die Kommandozeile in Windows Dateien vergleichen kann. diff -u / FC => File Compare. Hilfreich auch weil ich 
+auf Reflektionen gestossen wurde.  wieder schreiben, changelox.net geht weiter. ich will nicht mehr trennen, all in. 
+
+* Nicht ganz klar ob ich nicht besser einen zweiten Text schreibe. Aber ok ich aktualisiere den hier:
+* Entstehung des gesamten Programms. Wer hat wann weswegen angefangen.
+* Komplette Änderungsgeschichte.
+* Reihenfolge 
+* die Möglichkeit zu jedem beliebigen Punkt zurück zu kehren. 
+* Verschieden Versuche durchspielen.
+
+
+Question 3
+*Switching to english seems like a good idea. I dont write mandarin but i should get used to the idea that comments are for Readers whor are not fluent in german.
+* Pros and cons of manual commits:
+
+-> Pro: 
+
+*Writing your own Story is preferable to a Ghotswriter if you know what you want to tell.
+*You are developing the Story-Line
+*Nobody knows you better
+*Its still human logic
+*You still have to think about it-> Its work !
+*But finding the right stuff in an Autoupdate History maybe even more ?
+
+-> 
+Con
+* Sometimes i am a sloppy Bastard
+* you dont have think a about it 
+* Is automatic history beautyfull ?
+
+Q4
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+* Content: Google Docs is an online 'Office' Platform not directly related to code. Git is for Code. CodeContent is by nature much more 'linked' and not independend (you need to explain everything to these 
+pin heads ; and they will do everything what you have told them exactliy as you told), Actor 1 is still stronger in Humans. Actor 2 isnt (Kahnemannn)
+
+
+* the newest message is allways on top
+
+Q5
+
+* How might using version control make you more confident to make changes that could break something?
+
+I can allways go back... 
